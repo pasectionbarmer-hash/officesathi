@@ -1,5 +1,5 @@
-// offline cache for Office Sathi v1.5 — files are processed on the device, nothing is uploaded
-const CACHE = 'hps-1.5';
+// offline cache for Office Sathi v2.0.1 — files are processed on the device, nothing is uploaded
+const CACHE = 'hps-2.0.1';
 const FILES = ['./', 'index.html', 'adhikari.html', 'manifest.webmanifest', 'icon-192.png', 'icon-512.png'];
 self.addEventListener('install', e => { e.waitUntil(caches.open(CACHE).then(c => c.addAll(FILES)).then(() => self.skipWaiting())); });
 self.addEventListener('activate', e => { e.waitUntil(caches.keys().then(ks => Promise.all(ks.filter(k => k !== CACHE).map(k => caches.delete(k)))).then(() => self.clients.claim())); });
