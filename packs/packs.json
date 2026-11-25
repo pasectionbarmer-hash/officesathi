@@ -1,0 +1,127 @@
+{
+ "aren": {
+  "f": "officesathi-ar-en.ospack",
+  "h": "cc5706fb2adbdc7ad1b821c608aa3864e705f4310d7d59b9b433c677cc64ed21",
+  "n": 26449251
+ },
+ "bnen": {
+  "f": "officesathi-bn-en.ospack",
+  "h": "c1850c01037f8b19a5ec29c5673503a280943e2bc3f9cb88187cd279c11c676a",
+  "n": 15652358
+ },
+ "deen": {
+  "f": "officesathi-de-en.ospack",
+  "h": "19c490213153da230797735c410c1f7ede3af58e7369eca0b661d826525f505c",
+  "n": 25942829
+ },
+ "enar": {
+  "f": "officesathi-en-ar.ospack",
+  "h": "3d7e02523376334a5ecdbef5cbed2c804aca0fcad299fd5765126a5c00b41318",
+  "n": 25507754
+ },
+ "enbn": {
+  "f": "officesathi-en-bn.ospack",
+  "h": "59d6646c44d5f19f6f8201f67f8ce6d6b32fea0c4a3e5efb6b8c30f00007ac33",
+  "n": 15175350
+ },
+ "ende": {
+  "f": "officesathi-en-de.ospack",
+  "h": "a11a890b146b467ce4e64216dc2f613818a4645613b5c8eff1e2010d470ebe2a",
+  "n": 26288640
+ },
+ "enes": {
+  "f": "officesathi-en-es.ospack",
+  "h": "2ebd42997b58f4193cac67c31f1ec725aa197df7656078019b61f6c8ad637ba8",
+  "n": 25953195
+ },
+ "enfr": {
+  "f": "officesathi-en-fr.ospack",
+  "h": "70d06a06911b80854ec4b1d9af711077ef46473b6eca2496abeaed3a2945f9c2",
+  "n": 26349125
+ },
+ "engu": {
+  "f": "officesathi-en-gu.ospack",
+  "h": "3c06d1e189fba674fb76768637cf13cf55171a00fad8ea18de8f7ba00c7193b8",
+  "n": 14953700
+ },
+ "enja": {
+  "f": "officesathi-en-ja.ospack",
+  "h": "f372ddd612c8930eb45e143f29e27be6e8dd47bf2ed82eb8db171c154d11abbc",
+  "n": 36905407
+ },
+ "enkn": {
+  "f": "officesathi-en-kn.ospack",
+  "h": "140f601f066fcef6f51e98b7bd9c9f17f3178dcc56aab4fac8338ef06ae155b7",
+  "n": 15163355
+ },
+ "enml": {
+  "f": "officesathi-en-ml.ospack",
+  "h": "b1140e74d07de631bb936be3e1fc12ab3968224e8011cd5dd10da8b3d7446f49",
+  "n": 14625737
+ },
+ "enru": {
+  "f": "officesathi-en-ru.ospack",
+  "h": "6e4d0b7f6925f9cc085ade8c5f2a93f658832f854c35f0d64a31623a30f2fbfd",
+  "n": 24249738
+ },
+ "enta": {
+  "f": "officesathi-en-ta.ospack",
+  "h": "11463c334764c4d979abddf6d11ca9103aec1ad588a47b09e258450aed6bf8a0",
+  "n": 25716495
+ },
+ "ente": {
+  "f": "officesathi-en-te.ospack",
+  "h": "5a3de650192e33766cd93695c2fe8b35a79637fa268f14fd6f033246135b0f83",
+  "n": 14791754
+ },
+ "esen": {
+  "f": "officesathi-es-en.ospack",
+  "h": "6f716149c847025fe285c61c789d2c70d48191d9cbc6f2d4e64b2853eaf749b2",
+  "n": 26806825
+ },
+ "fren": {
+  "f": "officesathi-fr-en.ospack",
+  "h": "eb74eaec491600ac0799fa76608168d892068c9099430d78c330670b9b8d76d5",
+  "n": 26828540
+ },
+ "guen": {
+  "f": "officesathi-gu-en.ospack",
+  "h": "d0bcaab55279d0a355c508708d5d2218ac5c8dccb1bd6f537814c0c7b9efc095",
+  "n": 15666657
+ },
+ "hien": {
+  "f": "officesathi-hi-en.ospack",
+  "h": "0896e74662bad9c81a98a53cc72fdd94e71d45222cc48b51d8694c6a93178599",
+  "n": 15786770
+ },
+ "jaen": {
+  "f": "officesathi-ja-en.ospack",
+  "h": "4fe74707ce11648aa1c440970419b0f550313d47681a20c0fecb0b602b10b615",
+  "n": 38938249
+ },
+ "knen": {
+  "f": "officesathi-kn-en.ospack",
+  "h": "53254641d0fc8cce206e4e84ee862bc78b9a8d53c7f7c3520ca48de52fba48ba",
+  "n": 15906099
+ },
+ "mlen": {
+  "f": "officesathi-ml-en.ospack",
+  "h": "6859d14a1c4b9c0dd07b0e2589df9ab6c097c8aa928e1f0b9fa2bbc7734d60ff",
+  "n": 15822539
+ },
+ "ruen": {
+  "f": "officesathi-ru-en.ospack",
+  "h": "e06c8e64769af9a85e95bb1601dc998fad5538c2033432b2bd4e8679f9a9ea5c",
+  "n": 25975058
+ },
+ "taen": {
+  "f": "officesathi-ta-en.ospack",
+  "h": "9ec5d8186f9ced2d08f98ea1fc50382473a9f4563e995033b374540857a7b539",
+  "n": 26914422
+ },
+ "teen": {
+  "f": "officesathi-te-en.ospack",
+  "h": "3ea9e0b395934fd95f014738422c0e12f1b45fda64f441bfd81a8ffcbc86b09a",
+  "n": 16090491
+ }
+}

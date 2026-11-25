@@ -1,0 +1,19 @@
+Office Sathi — अनुवाद पैक (English → हिंदी) · Translation pack
+==============================================================
+
+This pack lets Office Sathi translate English to Hindi on the device, without internet. It contains:
+
+1. Bergamot translator (WebAssembly build), from the npm package @browsermt/bergamot-translator 0.4.9
+   (https://github.com/browsermt/bergamot-translator), licensed under the Mozilla Public License 2.0.
+   Files: bergamot-translator-worker.js, bergamot-translator-worker.wasm, translator-worker.js.
+   One change in translator-worker.js: the WebAssembly file is asked for by its plain name
+   ('bergamot-translator-worker.wasm') instead of new URL('./bergamot-translator-worker.wasm', self.location), because
+   Office Sathi runs the worker from memory (a blob), where that URL cannot be built. Office Sathi hands the file over.
+
+2. Firefox Translations English→Hindi model v1.0 by Mozilla (https://github.com/mozilla/firefox-translations-models,
+   trained with https://github.com/mozilla/translations), licensed under the Mozilla Public License 2.0, unchanged:
+     model.enhi.intgemm.alphas.bin  SHA-256 18682fa6aa1c1b2f78a6fcbcb354755094d623e65436ef7821720c5213e11a49
+     lex.50.50.enhi.s2t.bin         SHA-256 b473f6fe41cdb7c1dbeeb714fc50314feab77b0af2b2da6f7830ee14492dd847
+     vocab.enhi.spm                 SHA-256 8017cbf812bae400794c424699b89de90db06ac7a4ca67a420013a9f68b270c1
+
+The full licence text is in LICENSE-MPL-2.0.txt. Machine translation: check it against the original before use.
